@@ -1,0 +1,106 @@
+"1";"Administração"
+"2";"Artes e Design"
+"3";"Biologicas"
+"4";"Comunicação"
+"5";"Tecnologia"
+"6";"Saúde"
+"7";"Engenharia e Produção"
+"1";"2";"Work Out";"to exercise in order to improve the strength or appearance of your body";"I try to work out twice a week.";NULL;"Treinar"
+"2";"1";"Bread";"a food made from flour, water, and usually yeast, mixed together and baked.";"I want a slice of bread.";NULL;"Pão"
+"3";"1";"flight attendant";"A person that helps on an aircraft.";"Sue Makras, 34, is a flight attendant for a US airline operating from Heathrow.";NULL;"comissário de bordo"
+"4";"2";"Take off";"the action of becoming airborne";"The airplane will take off after the safety instructions.";NULL;"Decolar"
+"5";"2";"land";"Bring an aircraft to the ground or the surface in a controlled way.";"The co-pilot landed the plane.";NULL;"Pousar"
+"6";"1";"boarding pass";"A pass for boarding an aircraft, given to passengers when checking in.";"These kiosks will print itinerary receipts that will serve as boarding passes.";NULL;"Cartão de embarque"
+"7";"3";"Gate number";NULL;"Where is the gate number 1?";NULL;"Portão de embarque"
+"8";"1";"Body";"The physical structure, including the bones, flesh, and organs, of a person or an animal.";"It's important to keep your body in good condition";NULL;"Corpo"
+"9";"1";"Strong";"Having the power to move heavy weights or perform other physically demanding tasks.";"He was not a strong swimmer.";NULL;"Forte"
+"10";"3";"Question";;"Where is the bathroom?";NULL;"Onde fica o banheiro?"
+"11";"2";"Stretch";"straighten or extend one's body or a part of one's body to its full length, typically so as to tighten one's muscles or in order to reach something.";"You need to stretch in the morning.";NULL;"Alongar"
+"12";"2";"Breathe";"take air into the lungs and then expel it, especially as a regular physiological process.";"We are polluting the air we breathe.";NULL;"Respirar"
+"13";"1";"Weight";"a body's relative mass or the quantity of matter contained by it, giving rise to a downward force; the heaviness of a person or thing.";"He was at least 175 pounds in weight.";NULL;"Peso"
+"14";"3";"Greetings";NULL;"How are you?
+How is it going? (polite)
+
+(more informal)
+What’s up?
+What’s new?
+What’s going on?";NULL;"Como você está?"
+"15";"3";"Question";NULL;"How much does it cost?";NULL;"Quanto isto custa?"
+"16";"1";"Customs ";"the official department that administers and collects the duties levied by a government on imported goods.";"So I was not surprised to discover that there are still problems with the tax and customs departments.";NULL;"Alfândega"
+"17";"3";"Question";;"May I have something to eat/drink?
+Do you want something to eat/drink?
+";NULL;"Posso comer/beber alguma coisa?
+Você quer alguma coisa para comer/beber?"
+"18";"3";"Question";NULL;"How do I access the Internet?
+What is the password for the WiFi?";NULL;"Como eu acesso a internet?
+Qual é a senha para a WiFi?"
+"19";"3";"Directions";NULL;"How far is it to _____?
+How do I get to ____?";NULL;"Qual a distancia até__?
+Como eu chego até ___?"
+"20";"3";"Order";NULL;"May I see a menu?
+I would like to order ____.
+Let's eat dessert?
+ ";NULL;"Eu posso ver o menu?
+Eu gostaria de pedir ___.
+Vamos comer sobremesa?
+
+"
+"21";"3";"Ask out";"Invite someone to go somewhere.";"Paul asked his girlfriend out to a dinner in the new restaurant of the neighborhood.";NULL;"Convidar para sair"
+"1";"Vocabulário"
+"2";"Verbos"
+"3";"Frases"
+"1";"Academia";"Gym"
+"2";"Aeroporto";"Airport"
+"3";"Padaria";"Bakery"
+"4";"Banco";"Bank"
+"5";"Bar";"Bar"
+"6";"Loja de roupas";"clothing_store"
+"7";"Parada de ônibus";"bus_station"
+"8";"Loja de móveis";"furniture_store"
+"9";"Hospital";"Hospital"
+"10";"Boate";"night_club"
+"11";"Farmácia";"Pharmacy"
+"12";"Restaurante";"Restaurant"
+"13";"Escola";"School"
+"14";"Universidade";"university"
+"15";"Shopping";"shopping_mall"
+"1";"teste";"teste@teste.com";"010203";"2017-06-07";"10";"1";
+"2";"a";"a@a";"asasas";"2017-06-06";"12";"1";
+"3";"212";"2121";"12121";"2017-06-07";"30";"1";
+"4";"212";"2121";"12121";"2017-06-07";"30";"1";
+"5";"212";"2121";"12121";"2005-01-01";"30";"1";
+"6";"212";"2121";"de872154ffbf91a5dcc0e539dd2d5106";"2005-01-01";"30";"1";
+"7";"212";"2121";"de872154ffbf91a5dcc0e539dd2d5106";"2005-01-01";"30";"1";
+"8";"212";"2121";"de872154ffbf91a5dcc0e539dd2d5106";"2005-01-01";"30";"1";
+"9";"a";"a";"0cc175b9c0f1b6a831c399e269772661";"2005-01-01";"30";"1";
+"10";"teste area";"tetete";"f4b8ab6687d29bd4ab01f861e4d1bb44";"2005-01-01";"30";"5";
+"11";"teste area2";"tetete9";"f4b8ab6687d29bd4ab01f861e4d1bb44";"2005-01-01";"57";"5";
+"12";"teste area2";"tetete91";"f4b8ab6687d29bd4ab01f861e4d1bb44";"2005-01-01";"57";"5";
+"13";"teste area2";"tetete912";"f4b8ab6687d29bd4ab01f861e4d1bb44";"2005-01-01";"57";"5";
+"14";"teste area2";"tetete9122";"f4b8ab6687d29bd4ab01f861e4d1bb44";"2005-01-01";"57";"5";
+"15";"a";"ab";"0cc175b9c0f1b6a831c399e269772661";"2005-01-01";"30";"4";"t81HUEn7ANtLra40WRmF4s46i"
+"16";"new";"teste";"e05e7e0269a2f6870f4825c00d75710f";"2005-01-01";"30";"7";
+"17";"1";"2";"7694f4a66316e53c8cdd9d9954bd611d";"2005-01-01";"60";"4";
+"18";"e";"e";"e1671797c52e15f763380b45e841ec32";"2005-01-01";"30";"7";
+"19";"1";"teste22";"20bdbdca272ff1f808fc0671a7f63251";"2005-01-01";"33";"7";
+"20";"NOME USER";"testeooii";"20bdbdca272ff1f808fc0671a7f63251";"2005-01-01";"30";"7";
+"21";"REGISTRO";"teste2";"20bdbdca272ff1f808fc0671a7f63251";"2005-01-01";"65";"4";
+"22";"OLA";"TESTE7";"e3543f973866db39ceb02c8fd63f219c";"2005-01-01";"65";"3";
+"23";"767";"656";"e615c82aba461681ade82da2da38004a";"2005-01-01";"30";"4";
+"24";"teste";"teste98";"20bdbdca272ff1f808fc0671a7f63251";"2005-01-01";"30";"2";
+"25";"TESTE OLA";"TATATAT";"0d61130a6dd5eea85c2c5facfe1c15a7";"2005-01-01";"30";"6";
+"26";"lalala";"heeey";"962012d09b8170d912f0669f6d7d9d07";"2005-01-01";"62";"4";
+"27";"TETETETE";"TETETE2";"00db33c22a306bde44ddad4053720723";"2005-01-01";"30";"4";
+"28";"TETETET";"TEETETTETET";"cb13b4c123879b5f0fdb765f0e044a51";"2005-01-01";"54";"7";
+"29";"hdhdhd";"teste0999";"20bdbdca272ff1f808fc0671a7f63251";"2005-01-01";"30";"5";
+"30";"zaza";"zazaz";"8ba97607a1485ccdbe19745ed80cd52d";"2005-01-01";"30";"3";
+"31";"klklkl";"zazazaxs";"e0f5e82ee31a657ad8312b0ed1851438";"2005-01-01";"30";"7";
+"32";"OLA";"OLAOALAOAL";"f0c38440a2a3f0d2d706ac8a2e358c57";"2005-01-01";"30";"5";
+"33";"das";"asas";"baa7a52965b99778f38ef37f235e9053";"2005-01-01";"30";"4";
+"34";"HAHAH";"teste09993";"25adfe55fd639fcfd1c09e57ccddbd33";"2005-01-01";"46";"7";
+"35";"hahah";"REGI2";"76671038b977a194e7a4babe19a353bb";"2005-01-01";"30";"1";"eq83IpMTA3BfisOYNc7pBpLoD"
+"36";"POPO";"POPOP";"054f944f446bebcceca3aca8f29df220";"2005-01-01";"30";"7";"gxmuMDyVyjfusz3UOQ2ps7PIL"
+"37";"IAIAIAI";"HAHAH";"a69acbd33ebd272208587f1dfc4b876a";"2005-01-01";"30";"7";"cpRwEWHSJeNp20sBFuzqcorkK"
+"12";"3";"15";"33"
+"11";"2";"15";"33"
+"10";"1";"15";"33"

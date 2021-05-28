@@ -1,0 +1,9 @@
+<ion-menu side="left" [content]="contentMenu">
+  <ion-content>
+    <ion-list>
+      <button ion-item (click)="openPage(register)" menu-close>Toggle open page Register</button>
+    </ion-list>
+  </ion-content>
+</ion-menu>
+
+<ion-nav [root]="rootPage" #contentMenu></ion-nav>
